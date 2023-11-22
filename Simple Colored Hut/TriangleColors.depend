@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1700052219 source:c:\users\datch\desktop\codes\trianglecolors\main.cpp
+	<windows.h>
+	<GL/glut.h>
+
+976605772 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
